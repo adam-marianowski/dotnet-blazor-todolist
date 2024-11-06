@@ -1,0 +1,15 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore other unwanted files
+*.log
+*.lock
+*.cache
