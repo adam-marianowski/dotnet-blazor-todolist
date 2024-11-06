@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAiFtvEJyrA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\adam_marianowski\\OneDrive\\Dokumenty\\Repozytoria\\BlazorTodoList\\BlazorTodoList\\BlazorTodoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.19\\microsoft.aspnetcore.authorization.7.0.19.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.19\\microsoft.aspnetcore.components.7.0.19.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.19\\microsoft.aspnetcore.components.analyzers.7.0.19.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.19\\microsoft.aspnetcore.components.forms.7.0.19.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.19\\microsoft.aspnetcore.components.web.7.0.19.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.19\\microsoft.aspnetcore.metadata.7.0.19.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\7.0.0\\microsoft.extensions.hosting.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.fast.components.fluentui\\3.7.8\\microsoft.fast.components.fluentui.3.7.8.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\microsoft.jsinterop\\7.0.19\\microsoft.jsinterop.7.0.19.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\adam_marianowski\\.nuget\\packages\\system.text.json\\7.0.4\\system.text.json.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
